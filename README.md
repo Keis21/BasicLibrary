@@ -28,18 +28,6 @@ javac src/com/main/*.java java com.main.Main
 Or open the project in an IDE like IntelliJ or Eclipse and run `Main.java`.
 
 
-## Project Structure
-
-src/
-└── com/
-    └── main/
-        ├── Main.java        # Entry point of the app
-        ├── Library.java     # Library logic and rentals
-        ├── Section.java     # Category-based book storage
-        ├── Book.java        # Book class
-        ├── Customer.java    # Customer data
-        └── RentInfo.java    # Rental info with due dates
-
 ## Author
 
 [Keis](https://github.com/Keis21)
